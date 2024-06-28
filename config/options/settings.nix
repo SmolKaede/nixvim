@@ -16,6 +16,10 @@
     scrolloff = 8;
   };
 
+	# Alias the shit outta this
+	viAlias = true;
+	vimAlias = true;
+
   # Leader
   globals.mapleader = " ";
 
