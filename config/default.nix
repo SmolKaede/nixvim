@@ -8,6 +8,7 @@
 							./plugins/cmp.nix
 							./plugins/pairs.nix
 							./plugins/zen.nix
+							./plugins/telescope.nix
               ./options/colorscheme.nix
 	      			./options/settings.nix
 							./options/keymap.nix
