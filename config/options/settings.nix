@@ -11,6 +11,9 @@
     # Tab
     tabstop = 2;
     shiftwidth = 2;
+		softtabstop = 0;
+		expandtab = true;
+		smarttab = true;
     
     # Scrolloff
     scrolloff = 8;
