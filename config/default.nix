@@ -2,6 +2,7 @@
   # All the shit goes here
   imports = [ ./plugins/bufferline.nix
 							./plugins/nvim-tree.nix
+              ./plugins/lazygit.nix
 							./plugins/lualine.nix
 							./plugins/lsp.nix
 							./plugins/treesitter.nix
